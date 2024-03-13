@@ -36,9 +36,10 @@ img {
   
   /* Fake image */
   .fakeimg {
-    background-color: #aaa;
+    background-color: #D7BDC7;
     width: 100%;
     padding: 20px;
+    border-radius:10px;
   }
   
   /* Add a card effect for articles */
