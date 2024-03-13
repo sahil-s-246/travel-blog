@@ -15,6 +15,11 @@
     text-align: center;
     background: white;
   }
+img {
+   object-fit: cover;
+   min-width: 100%;
+  min-height: 100%;
+}
   
   /* Create two unequal columns that floats next to each other */
   /* Left column */
