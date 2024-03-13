@@ -50,6 +50,9 @@
     display: table;
     clear: both;
   }
+.div {
+    border-radius:10px;
+}
   
   /* Footer */
   .footer {
