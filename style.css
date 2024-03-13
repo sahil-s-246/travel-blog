@@ -44,6 +44,7 @@ img {
     width: 100%;
     padding: 20px;
     border-radius:10px;
+    background-image: url("https://www.kcpinternational.com/wp-content/uploads/2011/07/Spring-in-Tokyo.jpg");
   }
   
   /* Add a card effect for articles */
